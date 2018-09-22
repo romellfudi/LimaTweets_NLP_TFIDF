@@ -7,7 +7,7 @@
 
 You can also view online via:
 
-[LIMA TWEETS](http://nbviewer.jupyter.org/github/romellfudi/LimaTweets_NLP_TDIDF/blob/master/Notebook.ipynb)
+[LIMA TWEETS](http://nbviewer.jupyter.org/github/romellfudi/LimaTweets_NLP_TFIDF/blob/master/Notebook.ipynb)
 
 ## Requirements
 
