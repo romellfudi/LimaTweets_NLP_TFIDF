@@ -1,14 +1,13 @@
-# EDA & Ml in Lima's Tweets
+# EDA & ML in Lima's Tweets
 
-## NLP technologies in Lima chats
- 
+## Data Science technologies in Lima chats
 
 ### By Romell Domínguez
 [![](snapshot/icono.png)](https://www.romellfudi.com/)
 
 You can also view online via:
 
-[LIMA TWEETS](http://nbviewer.jupyter.org/github/romellfudi/MachineLearing/blob/master/1.Supervised%20Learning.ipynb)
+[LIMA TWEETS](http://nbviewer.jupyter.org/github/romellfudi/LimaTweets_NLP_TDIDF/blob/master/Notebook.ipynb)
 
 ## Requirements
 
