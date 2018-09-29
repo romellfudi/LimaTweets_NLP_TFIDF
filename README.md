@@ -1,6 +1,6 @@
-# EDA & ML in Lima's Tweets
+# EDA & ML for Lima's Tweets
 
-## Data Science technologies in Lima chats
+## Data Science technologies for Lima's Tweets/chats
 
 ### By Romell Domínguez
 [![](snapshot/icono.png)](https://www.romellfudi.com/)
