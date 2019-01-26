@@ -3,7 +3,7 @@
 ## Data Science technologies for Lima's Tweets/chats
 
 ### By Romell Domínguez
-[![](snapshot/icono.png)](https://www.romellfudi.com/)
+[![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico#favico)](https://www.romellfudi.com/)
 
 ### You can also view online via:
 
@@ -19,3 +19,11 @@
 MIT. See the LICENSE file for the copyright notice.
 
 **2018, September**
+
+<style>
+img[src*='#favico'] { 
+    width:200px;
+    display: block;
+    margin: auto;
+}
+</style>
