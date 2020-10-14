@@ -11,7 +11,9 @@ Online Site  <a href="https://tweets-romellfudi.glitch.me"><img src="https://cdn
 
 ### You can also view online via:
 
-#### LIMA TWEETS -> [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/LimaTweets_NLP_TFIDF/blob/master/Notebook.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/LimaTweets_NLP_TFIDF/master?filepath=Notebook.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/LimaTweets_NLP_TFIDF/blob/master/Notebook.ipynb)
+#### LIMA TWEETS -> [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/LimaTweets_NLP_TFIDF/blob/master/Live_tweeting.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/LimaTweets_NLP_TFIDF/master?filepath=Live_tweeting.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/LimaTweets_NLP_TFIDF/blob/master/Live_tweeting.ipynb)
+
+#### TEMPLATE -> [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/LimaTweets_NLP_TFIDF/blob/master/Live_tweeting.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/LimaTweets_NLP_TFIDF/master?filepath=Live_tweeting.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/LimaTweets_NLP_TFIDF/blob/master/Live_tweeting.ipynb)
 
 ## Requirements
 
